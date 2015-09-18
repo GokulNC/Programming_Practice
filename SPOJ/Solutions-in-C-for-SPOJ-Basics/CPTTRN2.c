@@ -1,4 +1,3 @@
-/* http://www.spoj.com/problems/CPTTRN2/ */
 #include <stdio.h>
 
 int main(void) {
