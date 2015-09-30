@@ -10,6 +10,6 @@ int main(void) {
         r=r1>r2?r1-r2:r2-r1;
         if(dist<r) printf("I\n");//Inside
         else if(dist==r) printf("E\n");//Tangential
-        else printf("O");//Other Case like Overlap or Outside
+        else printf("O\n");//Other Case like Overlap or Outside
     }
 }
